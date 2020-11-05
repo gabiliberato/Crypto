@@ -11,3 +11,7 @@ Brute force attack (trying all possible shifts and determining which one works).
 * [Vigenère](https://github.com/gabiliberato/Crypto/blob/main/vigenere.py)
 Vigenere cipher is a poly-alphabetic substitution system that use a key and a double-entry table.
 
+* [Frequency Analysis]()
+Is the study of the frequency of letters or groups of letters in a ciphertext.
+
+
