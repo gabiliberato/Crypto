@@ -14,7 +14,7 @@ for lt in file:
 	if lt in lc:
 		idx = lc.find(lt)
 		if mode == 'enc':
-			idx = (idx + key) % 26 # Aritimética modular - caso valores sobrem voltar ao inicio do alfabeto e contar novamente
+			idx = (idx + key) % 26 # Aritmética modular - caso valores sobrem voltar ao inicio do alfabeto e contar novamente
 		elif mode == 'dec':
 			idx == (idx - key) % 26
 		result+= lc[idx]
