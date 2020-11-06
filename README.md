@@ -2,6 +2,9 @@
 ___
 
 ### Classic Cyphers
+* [Rot13](https://github.com/gabiliberato/Crypto/blob/main/rot13.py) 
+Simple encryption method. It shifts each character of the clear text string 13 positions forward in the alphabet.
+
 * [Cesar](https://github.com/gabiliberato/Crypto/blob/main/cesar.py) 
 Method in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. 
 
