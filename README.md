@@ -17,4 +17,6 @@ Vigenere cipher is a poly-alphabetic substitution system that use a key and a do
 * [Frequency Analysis](https://github.com/gabiliberato/Crypto/blob/main/freq-analysis.py)
 Is the study of the frequency of letters or groups of letters in a ciphertext.
 
+* [Vernam](https://github.com/gabiliberato/Crypto/blob/main/vernam.py)
+Is, in theory, a perfect cipher. Instead of a single key, each plaintext character is encrypted using its own key. This key — or key stream — is randomly generated or is taken from a one-time pad, e.g. a page of a book. The key must be equal in length to the plaintext message. To use the Vernam cipher, you will need to use an XOR operation. 
 
